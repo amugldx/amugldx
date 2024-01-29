@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am passionate about everything that has to do with software development especially web development. I enjoy working with teams and enthusiastic people who want to solve problems through beautiful designs and experiences.</p>
+<p align="left">Its good to see you here 😃. Well, my profile is yours to search but I would recommend going to my pinned repositories section and have a look at my work. If you find something isn't working or could be improved, feel free to reach out on any platforms I've mentioned below. Thankq 🤠</p>
 
 ###
 
