@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I am passionate about everything that has to do with software development especially web development. I enjoy working with teams and enthusiastic people who want to solve problems through beautiful designs and experiences.</p>
+<p align="left">I'm super into software stuff, especially building things for the web!</p>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmdmhxcjVjdzVla2NvcjNobGZjbW80azN6OHdiYmxoZjZzdDA0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdhx91DZB1ApRE8ieK/giphy.gif"  />
+<img align="right" height="150" src="https://res.cloudinary.com/dsupzktwn/image/upload/v1708564331/amugldx_qsfsyf.gif"  />
 
 ###
 
