@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/dsupzktwn/image/upload/v1708564331/amugldx_qsfsyf.gif"  />
+<img align="right" height="250" src="https://res.cloudinary.com/dsupzktwn/image/upload/v1708564339/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5_mj0og8.gif"  />
 
 ###
 
