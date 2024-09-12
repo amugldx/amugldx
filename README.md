@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">My name is Ammar, and I am a software developer with a penchant for building bespoke solutions. With a keen eye for detail and a passion for excellence, I strive to create software that is at once functional, elegant, and refined.
+<p align="left">I'm Ammar, a software developer passionate about crafting innovative solutions. With a keen eye for detail and a drive for excellence, I create software that's functional, elegant, and refined.
 </p>
 
 ###
 
 ###
 
-<p align="left">You shall discover a collection of my most treasured creations here, crafted with dedication and passion. As a software artisan, I delight in shaping innovative solutions, and I am thrilled to share my endeavors with fellow connoisseurs of the digital realm.
+<p align="left">Here, you'll find a collection of my favorite and experimental projects, built with dedication and passion. I'm excited to share my work with fellow software developers.
 </p>
 
 ###
@@ -85,7 +85,7 @@
 
 ###
 
-<p align="left">Should you desire to initiate a conversation or propose a collaboration, I may be reached at links down below</p>
+<p align="left">If you have feedback, suggestions, or want to collaborate, I'd love to hear from you. Reach me at links down below.</p>
 
 ###
 
