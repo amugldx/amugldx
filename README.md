@@ -9,15 +9,8 @@
 
 ###
 
-<h4 align="left">My name is Ammar, and I am a software developer with a penchant for building bespoke solutions. With a keen eye for detail and a passion for excellence, I strive to create software that is at once functional, elegant, and refined.
-</h4>
-
-###
-
-###
-
-<h6 align="left">Within this profile, you shall find a diverse array of projects, each one a testament to my unwavering commitment to excellence. From ingenious tools to innovative applications, every creation is a reflection of my dedication to the craft.
-</h6>
+<h3 align="left">My name is Ammar, and I am a software developer with a penchant for building bespoke solutions. With a keen eye for detail and a passion for excellence, I strive to create software that is at once functional, elegant, and refined.
+</h3>
 
 ###
 
