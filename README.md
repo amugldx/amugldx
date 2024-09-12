@@ -85,6 +85,12 @@
 
 ###
 
+<p align="left">Should you desire to initiate a conversation or propose a collaboration, I may be reached at links down below</p>
+
+###
+
+###
+
 <div align="left">
   <a href="https://twitter.com/amugldx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
