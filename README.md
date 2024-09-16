@@ -76,15 +76,6 @@
 
 <p align="left">When i am not working, you can find me:<br><br>🎱 Playing Snooker.<br>🏸 Playing Badminton.<br>🏓 Playing Table Tennis.<br>🤸‍♂️ Enjoying my Workout.<br>📺 Watching TV show or Movie.<br>🥰 Having good time with family and friends.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amugldx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amugldx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <p align="left">If you have feedback, suggestions, or want to collaborate, I'd love to hear from you. Reach me at links down below.</p>
 
 ###
