@@ -1,4 +1,4 @@
-<h2 align="left">Greeting Fellow Earthling 🙋🏻</h2>
+<h2 align="left">Greetings 🙋🏻</h2>
 
 ###
 
